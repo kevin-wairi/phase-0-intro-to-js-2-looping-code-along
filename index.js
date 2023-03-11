@@ -1,1 +1,17 @@
-// Code your solutions in this file
+// // // Code your solutions in this file
+// // for (let age = 30; age < 40; age++) {
+// //     console.log(`I'm ${age} years old. Happy birthday to me!`);
+// //     debugger;
+// //   }
+
+// const giftCards = [];
+
+// function writeCards(){
+
+// }
+let countdown = 10;
+while (countdown > 0){
+    
+    console.log(countdown);
+    countdown--;
+}
